@@ -1,11 +1,5 @@
 # Deepfake detection using Deep Learning (ResNext and LSTM)
 
-## Give a Star⭐ to repo and Don't forget to <a href="https://www.buymeacoffee.com/abhijitjadhav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> 
-
-</a>
-
-## Latest Update
-#### We have dockerised the [Django Application](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Django%20Application) now you can spin up a container within seconds without worring about dependencies
 
 
 ## 1. Introduction
@@ -61,14 +55,7 @@ Deepfake_detection_using_deep_learning
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/abhijitjadhav1998/"><img src="https://avatars.githubusercontent.com/u/38549908?v=4?s=100" width="100px;" alt="Abhijit Jadhav"/><br /><sub><b>Abhijit Jadhav</b></sub></a><br /><a href="#projectManagement-abhijitjadhav1998" title="Project Management">📆</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://vthonte.vercel.app/"><img src="https://avatars.githubusercontent.com/u/43621438?v=4?s=100" width="100px;" alt="Vishwesh Thonte"/><br /><sub><b>Vishwesh Thonte</b></sub></a><br /><a href="#maintenance-vthonte" title="Maintenance">🚧</a></td>
-    </tr>
-  </tbody>
-</table>
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
@@ -82,10 +69,7 @@ Deepfake_detection_using_deep_learning
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-#### 6.1 Offline Contributors
-   1. Jay Patel
-   2. Hitendra Patil
-   3. Abhishek Patange
+
    
 ## 7. License
 
@@ -101,4 +85,3 @@ Deepfake_detection_using_deep_learning
 - [X] Dockerizing the app
 - [X] Enabling working of project on Non Cuda Computers. i.e on normal or AMD GPUs
 
-## 9. Dont forget to Star⭐ this repo 😉 and  <a href="https://www.buymeacoffee.com/abhijitjadhav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> 
